@@ -1,0 +1,33 @@
+﻿column_name,description
+category_code,카테고리 코드
+model_name,모델명
+regist_country,등록국가명
+create_dt_utc,세탁종료시간
+device_id,세탁기 Device 구분을 위한 고유ID(decoded)
+event_type,세탁기 상태 구분
+mon_data,인코딩된 세탁기 운전 데이터
+State,세탁기의 현재 상태 정보
+Remain_Time_H,세탁기의 현재 남은 시간 정보(Hour)
+Remain_Time_M,세탁기의 현재 남은 분(Minute)
+Initial_Time_H,세탁기의 초기 설정 시간 정보(Hour)
+Initial_Time_M,세탁기의 초기 설정 분 정보(Minute)
+APCourse,세탁기 코스 정보
+Error,세탁기의 에러 정보
+SoilLevel,오염수준
+SpinSpeed,세탁기 탈수 스피드
+WaterTemp,수온
+RinseCount,헹굼
+DryLevel,건조
+Reserve_Time_H,
+Reserve_Time_M,
+FreshCare,
+ChildLock,"버튼잠금 기능 (ON : 1, OFF : 0)"
+Steam,
+RemoteStart,
+TurboShot,
+InitialBit,
+PreState,이전 상태 정보
+SmartCourse,다운로드 코스
+TCLCount,통세척 횟수
+OPCourse,다운로드 Base코스
+LoadLevel,포량(빨랫감) 레벨
